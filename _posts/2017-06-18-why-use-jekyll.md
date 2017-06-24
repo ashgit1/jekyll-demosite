@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Learning Jekyll
-date: 2017-06-19 12:00
+title: Why use Jekyll
+date: 2017-06-18 12:00
 author: Ashishkumar Gupta
 image: http://placehold.it/900x300
 lead: "Learn Jekyll for creating static web sites quickly"
