@@ -48,6 +48,10 @@ layout: default
 
 				<hr>
 
+				<!-- Include the comments page which we generated from disqus-->
+				{% if site.comments %}
+				 {% include comments.html %}
+				{% endif %}
 
 				{% if page.previos %}
 					<span class="previous-link">
