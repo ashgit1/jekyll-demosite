@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Ultra Fast Blog
 date: 2017-06-18 12:00
-author: Ashishkumar Gupta
 image: http://placehold.it/900x300
 lead: "Ultra fast blogs are capturing the market in todays world"
-category: jekyll
 subtitle: create a ultra fast, secure blog that is easy to maintain and easy to scale
 ---
 

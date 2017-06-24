@@ -1,12 +1,9 @@
 ---
-layout: post
 title: Benefits of static Site Generators
 date: 2017-06-19 12:00
-author: Ashishkumar Gupta
 image: http://placehold.it/900x300
 lead: "We pay huge price for the underlying complexity of the dynamic code running on a server for every request - a price which we could avoid paying entirely when this kind of complexity is not needed."
-category: jekyll
-subtitle: create a ultra fast, secure blog that is easy to maintain and easy to scale 
+subtitle: create a ultra fast, secure blog that is easy to maintain and easy to scale
 ---
 
 Some of the Benefits of static site generators are they they are:

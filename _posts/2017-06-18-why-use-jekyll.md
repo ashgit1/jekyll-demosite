@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Why use Jekyll
 date: 2017-06-18 12:00
-author: Ashishkumar Gupta
 image: http://placehold.it/900x300
 lead: "Learn Jekyll for creating static web sites quickly"
-category: jekyll
 subtitle: create a ultra fast, secure blog that is easy to maintain and easy to scale by using Jekyll
 ---
 
