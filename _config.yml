@@ -42,3 +42,5 @@ defaults:
       layout: "post"
       author: "Ashish Kumar Gupta"
       category: "jekyll"
+
+theme: jekyll-theme-slate
